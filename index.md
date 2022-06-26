@@ -4,4 +4,4 @@
 
 Bin gespannt, ob ich da Jupyter-Notebooks auch implementieren kann.
 
-[[test.ipynb]]
+[[[test.ipynb](https://danielhofer.github.io/kurs-programmieren1/test.ipynb)]]
